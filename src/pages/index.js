@@ -6,8 +6,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import '../style/main.scss';
 
 export default () => {
-  const { lang, description } = headData;
-  const title = 'Forrest Reiland';
+  const { title, lang, description } = headData;
+  
 
   return (
     <>
