@@ -40,7 +40,7 @@ export const projectsData = [
     img: 'projectOne.jpeg',
     title: 'Nombolo app',
     info: 'Nombolo is a Portland based startup, and I am only a small part of a great team of developers who are building this application. The Nombolo app allows people to ask questions to their communities and receive video responses from other users! On the mobile app, I have developed features such a the Featured Business section on the homescreen and reply functionality. ',
-    info2: 'Technologies: React Native, GrapgQL, DynamoDB',
+    info2: 'Technologies: React Native, GraphQL, DynamoDB',
     url: 'https://nombolo.com',
     repo: 'https://nombolo.com', // if no repo, the button will not show up
   },
