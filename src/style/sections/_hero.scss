@@ -1,10 +1,11 @@
+
 #hero {
   min-height: 100vh;
   height: 100vh;
   display: flex;
   align-items: center;
   border-bottom: 0px;
-  background: $white-color;
+  background: $black-color;
   font-weight: 400;
   color: $dark-blue-text;
   padding: 0rem 5.6rem;
@@ -17,7 +18,7 @@
 
   // If you want to set a background image on the hero section, uncomment these with yout custom image
 
-  background: url("/src/assets/supermountains.jpg");
+  // background: url('./../../images/supermountains.jpg')100%;
   background-position: center;
   background-size: cover; 
 
